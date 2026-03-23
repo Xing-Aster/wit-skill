@@ -85,6 +85,10 @@ WIT ends with a structured synthesis instead of only asking questions. The defau
 
 This repository tracks the source form of the skill for review, iteration, and sharing.
 
+## Version
+
+Current public release: `1.0.0`
+
 ## License
 
 MIT
